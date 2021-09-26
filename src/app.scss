@@ -80,6 +80,9 @@ p {
       font-weight: 400;
       max-width: 870px;
       line-height: 1.3em;
+      position: relative;
+      z-index: 1;
+
     }
   }
 }
